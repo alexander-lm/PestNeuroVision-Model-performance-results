@@ -10,7 +10,7 @@ A **YOLO11s** object detection model optimized for detecting nine class of agric
 
 This model was trained to detect and classify common agricultural pests from images, supporting early pest identification for crop protection. It was evaluated on a held-out test set of **135 images** containing **368 instances** across 9 pest categories.
 
-> **Full details of the model evaluation:** [View training notebook on Colab](https://colab.research.google.com/drive/183x539AQ803xicrouAUfIuG8OOdY1PqD#scrollTo=yvjMKYMGJWSy)
+> **Full details of the model evaluation:** [Link](https://github.com/alexander-lm/PestNeuroVision/blob/8da0490dd624244927c31acd7b47cebfcb35ec2e/colab-notebooks/03_Model_evaluation.ipynb)
 
 ---
 

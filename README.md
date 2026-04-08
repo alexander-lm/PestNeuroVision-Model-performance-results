@@ -1,5 +1,7 @@
 # PestNeuroVision: Agricultural Pest Detection with YOLO11s
 
+[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+
 A fine-tuned **YOLO11s** object detection model for identifying agricultural pest species across 9 classes, including adult insects, larvae, and nymphs.
 
 ---
@@ -45,7 +47,9 @@ This model was trained to detect and classify common agricultural pests from ima
 
 ---
 
-## 📜 License
+## ⚖️ License
 
-This project is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0).
-You are free to share and adapt the material for any purpose, even commercially, as long as appropriate credit is given.
+This project is distributed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
+Any modifications or derivative works must also be distributed under the same license, with the source code made publicly available.
+
+[![AGPL-3.0](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)

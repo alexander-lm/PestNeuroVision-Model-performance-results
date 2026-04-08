@@ -20,11 +20,17 @@ along with this program. If not, see <https://www.gnu.org/licenses/agpl-3.0.html
 
 --------------------------------------------------------------------------------
 
-YOLO11s MODEL WEIGHTS
+YOLO11s MODEL WEIGHTS AND GENERATED DATA
 
-The fine-tuned YOLO11s weights are distributed under AGPL-3.0
-in accordance with the Ultralytics base model license.
-See: https://github.com/ultralytics/ultralytics/blob/main/LICENSE
+The fine-tuned YOLO11s weights used in this project, as well as the 
+resulting metrics and CSV data, are derivative works of the 
+Ultralytics YOLO11 base model. 
+
+These assets are distributed under the GNU Affero General Public 
+License v3.0 (AGPL-3.0) in accordance with the original license terms.
+
+Original Author: Ultralytics Inc.
+Original License: https://github.com/ultralytics/ultralytics/blob/main/LICENSE
 
 --------------------------------------------------------------------------------
 

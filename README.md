@@ -2,13 +2,13 @@
 
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
-A **YOLO11s** object detection model optimized for detecting nine class of agricultural pests found in the Cañete Valley, Lima, Peru.
+This repository contains the performance evaluation results of the YOLO11s model conducted on the test dataset.
 
 ---
 
 ## 📋 Overview
 
-This model was trained to detect and classify common agricultural pests from images, supporting early pest identification for crop protection. It was evaluated on a held-out test set of **135 images** containing **368 instances** across 9 pest categories.
+The model was trained to detect and classify common agricultural pests from images, supporting early pest identification for crop protection. It was evaluated on a held-out test set of **135 images** containing **368 instances** across 9 pest categories.
 
 > **Full details of the model evaluation:** [Link](https://github.com/alexander-lm/PestNeuroVision/blob/8da0490dd624244927c31acd7b47cebfcb35ec2e/colab-notebooks/03_Model_evaluation.ipynb)
 

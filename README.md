@@ -1,4 +1,4 @@
-# PestNeuroVision: Agricultural Pest Detection with YOLO11s
+# PestNeuroVision: A mobile application based on convolutional neural networks (CNNs) and computer vision for the detection of agricultural pests in the Cañete Valley, Lima, Peru
 
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 

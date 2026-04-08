@@ -49,7 +49,7 @@ The model was trained to detect and classify common agricultural pests from imag
 
 ## ⚖️ License
 
-This project is licensed under the [GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0).
+This repository is licensed under the [GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0).
 The metrics and results presented here were generated using YOLO11 by Ultralytics, which is also governed by the [AGPL-3.0](https://github.com/ultralytics/ultralytics/blob/main/LICENSE) license. All derivative works, including fine-tuned results and data, are distributed under these same terms. Any modifications or derivative works must also be distributed under the same license, with the source code made publicly available.
 
 Full source code and license details are available in the [GitHub Repository](https://github.com/alexander-lm/PestNeuroVision).

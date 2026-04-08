@@ -2,7 +2,7 @@
 
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
-A **YOLO11s** object detection model optimized for detecting nine types of agricultural pests found in the Cañete Valley, Lima, Peru.
+A **YOLO11s** object detection model optimized for detecting nine class of agricultural pests found in the Cañete Valley, Lima, Peru.
 
 ---
 

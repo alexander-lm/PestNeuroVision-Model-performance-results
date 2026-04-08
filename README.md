@@ -54,5 +54,4 @@ The metrics and results presented here were generated using YOLO11 by Ultralytic
 
 Full source code and license details are available in the [GitHub Repository](https://github.com/alexander-lm/PestNeuroVision).
 
-
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)

@@ -52,4 +52,4 @@ This model was trained to detect and classify common agricultural pests from ima
 This project is distributed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
 Any modifications or derivative works must also be distributed under the same license, with the source code made publicly available.
 
-[![AGPL-3.0](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)

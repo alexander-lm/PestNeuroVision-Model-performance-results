@@ -4,7 +4,8 @@
 
 This repository contains the performance evaluation results of the YOLO11s model conducted on the test dataset.
 
----
+
+<hr style="height:4px; border:none; background-color:#444;">
 
 ## 📋 Overview
 
@@ -12,7 +13,8 @@ The model was trained to detect and classify common agricultural pests from imag
 
 > **Full details of the model evaluation:** [Link](https://github.com/alexander-lm/PestNeuroVision/blob/8da0490dd624244927c31acd7b47cebfcb35ec2e/colab-notebooks/03_Model_evaluation.ipynb)
 
----
+
+<hr style="height:4px; border:none; background-color:#444;">
 
 ### Overall Metrics
 
@@ -45,12 +47,13 @@ The model was trained to detect and classify common agricultural pests from imag
 | Inference | 9.4 |
 | Postprocess | 3.5 |
 
----
+
+<hr style="height:4px; border:none; background-color:#444;">
 
 ## ⚖️ License
 
-This repository is licensed under the [GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0).
-The metrics and results presented here were generated using YOLO11 by Ultralytics, which is also governed by the [AGPL-3.0](https://github.com/ultralytics/ultralytics/blob/main/LICENSE) license. All derivative works, including fine-tuned results and data, are distributed under these same terms. Any modifications or derivative works must also be distributed under the same license, with the source code made publicly available.
+This repository is distributed under the [GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0).
+The metrics and results presented here were generated using YOLO11 by Ultralytics, which is also governed by the [AGPL-3.0](https://github.com/ultralytics/ultralytics/blob/main/LICENSE) license. Any modifications or derivative works must also be distributed under the same license, with the source code made publicly available.
 
 Full source code and license details are available in the [GitHub Repository](https://github.com/alexander-lm/PestNeuroVision).
 
